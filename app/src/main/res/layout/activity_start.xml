@@ -16,7 +16,7 @@
         android:src="@drawable/logo"
         android:background="#00555555"/>
 
-    <
+
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
